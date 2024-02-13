@@ -1,4 +1,6 @@
 oui c'est la
+ouiiiii feature 3 
+>>>>>>> 92ddcec (commit pour essayer deuxieme fork)
 coucou ici alix 
 hola que tal
 et la c'est un autre fichier mnt
